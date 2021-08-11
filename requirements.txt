@@ -1,0 +1,6 @@
+streamlit
+tensorflow-gpu==1.15
+Pillow
+opencv-python
+numpy
+matplotlib
