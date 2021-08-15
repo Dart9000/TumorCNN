@@ -13,9 +13,9 @@
 - This can save the precious time of the patient while being cost-friendly by saving resources on unnecessary labour and multiple layers of the gruelling procedure.
 
 # TRY IT OUT
-* Open Colab: https://colab.research.google.com/drive/10YrdA7cEt_Sn53gYAI-9McwVJYALvjCU?usp=sharing <br/>
+* Open Colab: https://colab.research.google.com/drive/10YrdA7cEt_Sn53gYAI-9McwVJYALvjCU?usp=sharing 
 * Run the Cell! <br> <img src='https://user-images.githubusercontent.com/68856476/112710802-cb0bbb80-8ee9-11eb-8f1b-fd14299fb88a.jpg' width='50%'>
-* After Few Second Web link will be generated, Open that!!<img src='https://user-images.githubusercontent.com/68856476/112710828-ec6ca780-8ee9-11eb-90af-d86d4e3e3a37.jpg'>
-* Sucessfull Launched the Web app, Now upload a MRI!<img src='https://user-images.githubusercontent.com/68856476/112710853-2b026200-8eea-11eb-8875-cbf753302b4a.jpg'>(Sample images available on Appliction, upload Them For testing)
+* After Few Second Web link will be generated, Open that!!<br><img src='https://user-images.githubusercontent.com/68856476/112710828-ec6ca780-8ee9-11eb-90af-d86d4e3e3a37.jpg' width='50%'>
+* Sucessfull Launched the Web app, Now upload a MRI!<br><img src='https://user-images.githubusercontent.com/68856476/112710853-2b026200-8eea-11eb-8875-cbf753302b4a.jpg' width='50%'><br>(Sample images available on Appliction, upload Them For testing)
 * Currently Our Data Set Is Small, So Predictions are not That much Generalized,:-/,but will be training the Model with Larger Data Set Soon
-* <img src='https://user-images.githubusercontent.com/68856476/112711209-a533e600-8eec-11eb-9663-3934fcf8f290.jpg'>(Data : https://drive.google.com/drive/folders/15IT5xP_boZ1w0IfzwKhXganqa_VP_06N?usp=sharing)
+* <img src='https://user-images.githubusercontent.com/68856476/112711209-a533e600-8eec-11eb-9663-3934fcf8f290.jpg' width='50%'><br>[DataSet](https://drive.google.com/drive/folders/15IT5xP_boZ1w0IfzwKhXganqa_VP_06N?usp=sharing)
